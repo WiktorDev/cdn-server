@@ -6,4 +6,4 @@ File cdn server
  - Rename tokens.example.json to tokens.json
 
 ## Create new token
-Run command ``npm run create```
+Run command ``npm run create``
