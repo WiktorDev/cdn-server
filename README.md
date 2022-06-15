@@ -3,6 +3,7 @@ File cdn server
 
 ## Setup
  - Edit a config.json file
+ - Create ``files`` directory in ``/public/``
  - Rename tokens.example.json to tokens.json
 
 ## Create new token
