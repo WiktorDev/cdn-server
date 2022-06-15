@@ -22,4 +22,4 @@ Upload file
 |          Name | Required |  Type   | Description                                                                                                                                                           |
 | -------------:|:--------:|:-------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     `token` | required | string  | The auth token for authorization user                                                                     |
-|     `file` | required | string  | The file you want to send                                                                   |
+|     `file` | required | file  | The file you want to send                                                                   |
