@@ -1,5 +1,6 @@
 # cdn-server
 File cdn server
+Demo: https://cdn.wiktor.tech/
 
 ## Setup
  - Edit a config.json file
