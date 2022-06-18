@@ -1,5 +1,5 @@
 # cdn-server
-File cdn server
+File cdn server \n
 Demo: https://cdn.wiktor.tech/
 
 ## Setup
